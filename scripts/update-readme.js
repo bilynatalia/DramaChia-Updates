@@ -5,29 +5,49 @@ const path = require("path");
 // API Configuration
 // API_BASE_URL = from GitHub Secret (private, hidden)
 // WEBSITE_URL = hardcoded (public, displayed in README)
-const API_BASE = process.env.API_BASE_URL || 'https://api-ku.dramachia.com/';
-const WEBSITE_URL = 'https://dramachia.com'; // Public website URL - OK to display
+const API_BASE = process.env.API_BASE_URL; // ✅ NO fallback hardcoded
+const WEBSITE_URL = "https://dramachia.com"; // Public website URL - OK to display
 
 // Check if API URL is configured
-if (!process.env.API_BASE_URL) {
-  console.error('❌ ERROR: API_BASE_URL environment variable is not set!');
-  console.error('   Please add API_BASE_URL to your GitHub Secrets');
+if (!API_BASE) {
+  console.error("❌ ERROR: API_BASE_URL environment variable is not set!");
+  console.error("   Please add API_BASE_URL to your GitHub Secrets");
   process.exit(1);
 }
 
 // Fetch data from API
 function fetchAPI(endpoint) {
   return new Promise((resolve, reject) => {
-    const url = `${API_BASE}${endpoint}`;
+    // Ensure we don't accidentally create double slashes
+    const base = API_BASE.endsWith("/") ? API_BASE.slice(0, -1) : API_BASE;
+    const ep = endpoint.startsWith("/") ? endpoint : `/${endpoint}`;
+    const url = `${base}${ep}`;
+
     https
       .get(url, (res) => {
         let data = "";
+
+        // Optional: handle non-200 responses more clearly
+        if (res.statusCode && (res.statusCode < 200 || res.statusCode >= 300)) {
+          res.resume(); // drain
+          return reject(
+            new Error(`HTTP ${res.statusCode} when requesting ${endpoint}`)
+          );
+        }
+
         res.on("data", (chunk) => (data += chunk));
         res.on("end", () => {
           try {
             resolve(JSON.parse(data));
           } catch (e) {
-            reject(e);
+            reject(
+              new Error(
+                `Failed to parse JSON from ${endpoint}. Response: ${data.slice(
+                  0,
+                  200
+                )}`
+              )
+            );
           }
         });
       })
@@ -38,21 +58,18 @@ function fetchAPI(endpoint) {
 // Format play count for display
 function formatPlayCount(count) {
   if (!count) return "0";
-  if (typeof count === "string") {
-    return count; // Already formatted like "100M", "22.8M"
-  }
-  if (count >= 1000000) return (count / 1000000).toFixed(1) + "M";
-  if (count >= 1000) return (count / 1000).toFixed(1) + "K";
+  if (typeof count === "string") return count; // Already formatted like "100M"
+  if (count >= 1_000_000) return (count / 1_000_000).toFixed(1) + "M";
+  if (count >= 1_000) return (count / 1_000).toFixed(1) + "K";
   return count.toString();
 }
 
 // Generate drama card HTML for README (table cell format)
-function generateDramaCard(drama, index) {
+function generateDramaCard(drama) {
   const bookId = drama.bookId || drama.id;
-  const name = drama.bookName || drama.name;
-  // Truncate name if too long
+  const name = drama.bookName || drama.name || "Untitled";
   const shortName = name.length > 25 ? name.substring(0, 22) + "..." : name;
-  const cover = drama.cover;
+  const cover = drama.cover || "";
 
   return `    <td align="center" width="150">
       <a href="${WEBSITE_URL}/detail/${bookId}">
@@ -64,16 +81,17 @@ function generateDramaCard(drama, index) {
 
 // Generate category badges (split into rows)
 function generateCategoryBadges(categories) {
-  const colors = ['9f1239', 'ef4444', 'dc2626', 'be123c', 'e11d48'];
+  const colors = ["9f1239", "ef4444", "dc2626", "be123c", "e11d48"];
+
   const badges = categories.slice(0, 10).map((cat, i) => {
     const color = colors[i % colors.length];
-    const name = encodeURIComponent(cat.name.replace(/ /g, '_'));
+    const name = encodeURIComponent((cat.name || "").replace(/ /g, "_"));
     return `[![${cat.name}](https://img.shields.io/badge/${name}-${color}?style=for-the-badge&logoColor=white)](${WEBSITE_URL}/kategori/${cat.replaceName})`;
   });
-  // Split into rows of 5
-  const row1 = badges.slice(0, 5).join('\n');
-  const row2 = badges.slice(5, 10).join('\n');
-  return row1 + '\n\n' + row2;
+
+  const row1 = badges.slice(0, 5).join("\n");
+  const row2 = badges.slice(5, 10).join("\n");
+  return row2 ? row1 + "\n\n" + row2 : row1;
 }
 
 // Get current date formatted
@@ -94,7 +112,7 @@ function getCurrentDate() {
 // Main function to generate README
 async function generateReadme() {
   console.log("🎬 Fetching data from DramaChia API...");
-  console.log("📡 API Base: [HIDDEN]"); // Don't log the actual URL
+  console.log("📡 API Base: [HIDDEN]");
 
   try {
     // Fetch all data in parallel
@@ -115,11 +133,11 @@ async function generateReadme() {
     // Generate drama cards
     const latestCards = latestDramas
       .slice(0, 6)
-      .map((d, i) => generateDramaCard(d, i))
+      .map((d) => generateDramaCard(d))
       .join("");
     const popularCards = popularDramas
       .slice(0, 6)
-      .map((d, i) => generateDramaCard(d, i))
+      .map((d) => generateDramaCard(d))
       .join("");
 
     // Generate category badges
@@ -141,10 +159,7 @@ async function generateReadme() {
 
 <div align="center">
 
-<!-- Animated Banner -->
 <img src="./assets/banner.svg" alt="DramaChia Banner" width="100%"/>
-
-<!-- Animated Typing Effect -->
 <img src="./assets/typing.svg" alt="DramaChia Features" width="100%"/>
 
 <br/>
@@ -155,7 +170,6 @@ async function generateReadme() {
 
 <br/>
 
-<!-- Action Buttons -->
 <a href="${WEBSITE_URL}">
   <img src="https://img.shields.io/badge/🌐_Kunjungi_Website-9f1239?style=for-the-badge&logoColor=white" alt="Website"/>
 </a>
@@ -170,7 +184,6 @@ async function generateReadme() {
 
 <br/><br/>
 
-<!-- Stats Badges -->
 ![Drama Terbaru](https://img.shields.io/badge/Drama_Terbaru-${totalLatest}+-9f1239?style=flat-square&logo=youtube&logoColor=white)
 ![Drama Populer](https://img.shields.io/badge/Drama_Populer-${totalPopular}+-ef4444?style=flat-square&logo=fire&logoColor=white)
 ![Kategori](https://img.shields.io/badge/Kategori-${totalCategories}-dc2626?style=flat-square&logo=tag&logoColor=white)
@@ -180,7 +193,6 @@ async function generateReadme() {
 
 <br/>
 
-<!-- Wave Separator -->
 <img src="./assets/wave.svg" alt="Wave" width="100%"/>
 
 <br/>
@@ -205,7 +217,6 @@ ${latestCards}
 
 <br/>
 
-<!-- Wave Separator -->
 <img src="./assets/wave.svg" alt="Wave" width="100%"/>
 
 <br/>
@@ -230,7 +241,6 @@ ${popularCards}
 
 <br/>
 
-<!-- Wave Separator -->
 <img src="./assets/wave.svg" alt="Wave" width="100%"/>
 
 <br/>
@@ -245,7 +255,6 @@ ${categoryBadges}
 
 <br/>
 
-<!-- Wave Separator -->
 <img src="./assets/wave.svg" alt="Wave" width="100%"/>
 
 <br/>
@@ -267,7 +276,6 @@ ${categoryBadges}
 
 <br/>
 
-<!-- Wave Separator -->
 <img src="./assets/wave.svg" alt="Wave" width="100%"/>
 
 <br/>
@@ -288,108 +296,7 @@ ${categoryBadges}
 
 <br/>
 
-<!-- Animated Footer Wave (Rotated) -->
 <img src="./assets/wave.svg" alt="Wave" width="100%" style="transform: rotate(180deg);"/>
-
-<div align="center">
-
-### Made with ❤️ by DramaChia Team
-
-<br/>
-
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-<!-- Profile Views Counter -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=dramachia-updates&label=Repository%20Views&color=9f1239&style=flat-square" alt="Profile Views"/>
-
-</div>
-<div align="center">
-
-<table>
-  <tr>
-${latestCards}
-  </tr>
-</table>
-
-<br/>
-
-<a href="${WEBSITE_URL}/latest">
-  <img src="https://img.shields.io/badge/📺_Lihat_Semua_Drama_Terbaru-9f1239?style=for-the-badge" alt="Lihat Semua"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🔥 Drama Populer
-
-<div align="center">
-
-<table>
-  <tr>
-${popularCards}
-  </tr>
-</table>
-
-<br/>
-
-<a href="${WEBSITE_URL}">
-  <img src="https://img.shields.io/badge/🔥_Lihat_Drama_Populer-ef4444?style=for-the-badge" alt="Lihat Semua"/>
-</a>
-
-</div>
-
----
-
-## 🏷️ Kategori Drama
-
-<div align="center">
-
-${categoryBadges}
-
-</div>
-
----
-
-## ✨ Fitur DramaChia
-
-<div align="center">
-
-| Fitur | Deskripsi |
-|:---:|:---|
-| 🆓 **100% Gratis** | Nonton semua drama tanpa biaya berlangganan |
-| 📱 **Mobile Friendly** | Tampilan responsif untuk semua perangkat |
-| 🇮🇩 **Subtitle Indonesia** | Semua drama dengan subtitle bahasa Indonesia |
-| 🎬 **Update Cepat** | Drama terbaru update setiap hari |
-| 📶 **Hemat Kuota** | Streaming dioptimasi untuk hemat data |
-| 🔍 **Pencarian Mudah** | Cari drama favorit dengan mudah |
-
-</div>
-
----
-
-## 🚀 Quick Links
-
-<div align="center">
-
-| Link | Deskripsi |
-|:---:|:---|
-| 🏠 [**Home**](${WEBSITE_URL}) | Halaman utama DramaChia |
-| 🎬 [**Drama Terbaru**](${WEBSITE_URL}/latest) | Drama China terbaru |
-| 🇰🇷 [**Drakor**](${WEBSITE_URL}/drakor/latest) | Drama Korea terbaru |
-| 🔍 [**Pencarian**](${WEBSITE_URL}/search) | Cari drama favorit |
-| ❓ [**FAQ**](${WEBSITE_URL}/faq) | Pertanyaan umum |
-
-</div>
-
----
 
 <div align="center">
 
