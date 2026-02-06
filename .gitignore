@@ -1,7 +1,9 @@
+# Hide semua kecuali README.md
 DEPLOY.md
 node_modules/
 .env
 .DS_Store
-assets
-scripts
+assets/
+scripts/
 package.json
+.github/
