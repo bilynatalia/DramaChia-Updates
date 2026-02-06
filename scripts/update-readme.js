@@ -5,7 +5,7 @@ const path = require("path");
 // API Configuration
 // API_BASE_URL = from GitHub Secret (private, hidden)
 // WEBSITE_URL = hardcoded (public, displayed in README)
-const API_BASE = process.env.API_BASE_URL || 'https://your-api-url.com';
+const API_BASE = process.env.API_BASE_URL || 'https://api-ku.dramachia.com/';
 const WEBSITE_URL = 'https://dramachia.com'; // Public website URL - OK to display
 
 // Check if API URL is configured
