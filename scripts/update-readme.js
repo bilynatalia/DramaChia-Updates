@@ -141,12 +141,15 @@ async function generateReadme() {
 
 <div align="center">
 
-# 🎬 DramaChia
+<!-- Animated Banner -->
+<img src="./assets/banner.svg" alt="DramaChia Banner" width="100%"/>
 
-### Nonton Drama Gratis dengan Subtitle Indonesia
+<!-- Animated Typing Effect -->
+<img src="./assets/typing.svg" alt="DramaChia Features" width="100%"/>
 
 <br/>
 
+<!-- Action Buttons -->
 <a href="${WEBSITE_URL}">
   <img src="https://img.shields.io/badge/🌐_Kunjungi_Website-9f1239?style=for-the-badge&logoColor=white" alt="Website"/>
 </a>
@@ -161,20 +164,142 @@ async function generateReadme() {
 
 <br/><br/>
 
+<!-- Stats Badges -->
 ![Drama Terbaru](https://img.shields.io/badge/Drama_Terbaru-${totalLatest}+-9f1239?style=flat-square&logo=youtube&logoColor=white)
 ![Drama Populer](https://img.shields.io/badge/Drama_Populer-${totalPopular}+-ef4444?style=flat-square&logo=fire&logoColor=white)
 ![Kategori](https://img.shields.io/badge/Kategori-${totalCategories}-dc2626?style=flat-square&logo=tag&logoColor=white)
+![Update](https://img.shields.io/badge/Auto_Update-Setiap_6_Jam-1a1a1a?style=flat-square&logo=github-actions&logoColor=white)
 
 </div>
 
 <br/>
 
----
+<!-- Wave Separator -->
+<img src="./assets/wave.svg" alt="Wave" width="100%"/>
 
 <br/>
 
 ## 🎬 Drama Terbaru
 
+<div align="center">
+
+<table>
+  <tr>
+${latestCards}
+  </tr>
+</table>
+
+<br/>
+
+<a href="${WEBSITE_URL}/latest">
+  <img src="https://img.shields.io/badge/📺_Lihat_Semua_Drama_Terbaru-9f1239?style=for-the-badge" alt="Lihat Semua"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Wave Separator -->
+<img src="./assets/wave.svg" alt="Wave" width="100%"/>
+
+<br/>
+
+## 🔥 Drama Populer
+
+<div align="center">
+
+<table>
+  <tr>
+${popularCards}
+  </tr>
+</table>
+
+<br/>
+
+<a href="${WEBSITE_URL}">
+  <img src="https://img.shields.io/badge/🔥_Lihat_Drama_Populer-ef4444?style=for-the-badge" alt="Lihat Semua"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Wave Separator -->
+<img src="./assets/wave.svg" alt="Wave" width="100%"/>
+
+<br/>
+
+## 🏷️ Kategori Drama
+
+<div align="center">
+
+${categoryBadges}
+
+</div>
+
+<br/>
+
+<!-- Wave Separator -->
+<img src="./assets/wave.svg" alt="Wave" width="100%"/>
+
+<br/>
+
+## ✨ Fitur DramaChia
+
+<div align="center">
+
+| | Fitur | Deskripsi |
+|:---:|:---|:---|
+| 🆓 | **100% Gratis** | Nonton semua drama tanpa biaya berlangganan |
+| 📱 | **Mobile Friendly** | Tampilan responsif untuk semua perangkat |
+| 🇮🇩 | **Subtitle Indonesia** | Semua drama dengan subtitle bahasa Indonesia |
+| 🎬 | **Update Cepat** | Drama terbaru update setiap hari |
+| 📶 | **Hemat Kuota** | Streaming dioptimasi untuk hemat data |
+| 🔍 | **Pencarian Mudah** | Cari drama favorit dengan mudah |
+
+</div>
+
+<br/>
+
+<!-- Wave Separator -->
+<img src="./assets/wave.svg" alt="Wave" width="100%"/>
+
+<br/>
+
+## 🚀 Quick Links
+
+<div align="center">
+
+| | Link | Deskripsi |
+|:---:|:---:|:---|
+| 🏠 | [**Home**](${WEBSITE_URL}) | Halaman utama DramaChia |
+| 🎬 | [**Drama Terbaru**](${WEBSITE_URL}/latest) | Drama China terbaru |
+| 🇰🇷 | [**Drakor**](${WEBSITE_URL}/drakor/latest) | Drama Korea terbaru |
+| 🔍 | [**Pencarian**](${WEBSITE_URL}/search) | Cari drama favorit |
+| ❓ | [**FAQ**](${WEBSITE_URL}/faq) | Pertanyaan umum |
+
+</div>
+
+<br/>
+
+<!-- Animated Footer Wave (Rotated) -->
+<img src="./assets/wave.svg" alt="Wave" width="100%" style="transform: rotate(180deg);"/>
+
+<div align="center">
+
+### Made with ❤️ by DramaChia Team
+
+<br/>
+
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+<!-- Profile Views Counter -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=dramachia-updates&label=Repository%20Views&color=9f1239&style=flat-square" alt="Profile Views"/>
+
+</div>
 <div align="center">
 
 <table>
