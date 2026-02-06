@@ -2,3 +2,6 @@ DEPLOY.md
 node_modules/
 .env
 .DS_Store
+assets
+scripts
+package.json
