@@ -2,14 +2,16 @@ const https = require("https");
 const fs = require("fs");
 const path = require("path");
 
-// API Configuration - Uses environment variable (GitHub Secret)
-const API_BASE = process.env.API_BASE_URL || "https://api-ku.dramachia.com/";
-const WEBSITE_URL = process.env.WEBSITE_URL || "https://dramachia.com";
+// API Configuration
+// API_BASE_URL = from GitHub Secret (private, hidden)
+// WEBSITE_URL = hardcoded (public, displayed in README)
+const API_BASE = process.env.API_BASE_URL || 'https://your-api-url.com';
+const WEBSITE_URL = 'https://dramachia.com'; // Public website URL - OK to display
 
 // Check if API URL is configured
 if (!process.env.API_BASE_URL) {
-  console.error("❌ ERROR: API_BASE_URL environment variable is not set!");
-  console.error("   Please add API_BASE_URL to your GitHub Secrets");
+  console.error('❌ ERROR: API_BASE_URL environment variable is not set!');
+  console.error('   Please add API_BASE_URL to your GitHub Secrets');
   process.exit(1);
 }
 
