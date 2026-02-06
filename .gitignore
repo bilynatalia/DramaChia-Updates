@@ -1,9 +1,5 @@
-# Hide semua kecuali README.md
+# Ignore sensitive files
 DEPLOY.md
 node_modules/
 .env
 .DS_Store
-assets/
-scripts/
-package.json
-.github/

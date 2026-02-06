@@ -2,20 +2,22 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Jumat, 6 Februari 2026 pukul 09.58 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<!-- Logo & Title -->
-# 🎬 DramaChia
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=200&section=header&text=🎬%20DramaChia&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Nonton%20Drama%20Gratis%20dengan%20Subtitle%20Indonesia&descAlignY=55&descSize=18"/>
 
-### Nonton Drama Gratis dengan Subtitle Indonesia
+<!-- Typing Animation -->
+<a href="https://dramachia.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=🎬+Drama+China+Pendek+Terlengkap;🇰🇷+Drama+Korea+Subtitle+Indonesia;📱+Streaming+Gratis+%26+Mobile+Friendly" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Main Action Buttons -->
+<!-- Action Buttons -->
 <a href="https://dramachia.com">
   <img src="https://img.shields.io/badge/🌐_Kunjungi_Website-9f1239?style=for-the-badge&logoColor=white" alt="Website"/>
 </a>
@@ -30,16 +32,18 @@
 
 <br/><br/>
 
-<!-- Stats -->
+<!-- Stats Badges -->
 ![Drama Terbaru](https://img.shields.io/badge/Drama_Terbaru-10+-9f1239?style=flat-square&logo=youtube&logoColor=white)
 ![Drama Populer](https://img.shields.io/badge/Drama_Populer-10+-ef4444?style=flat-square&logo=fire&logoColor=white)
 ![Kategori](https://img.shields.io/badge/Kategori-30-dc2626?style=flat-square&logo=tag&logoColor=white)
+![Update](https://img.shields.io/badge/Auto_Update-Setiap_6_Jam-1a1a1a?style=flat-square&logo=github-actions&logoColor=white)
 
 </div>
 
 <br/>
 
----
+<!-- Wave Separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,24&height=2"/>
 
 <br/>
 
@@ -51,37 +55,37 @@
   <tr>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005442">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005442/42000005442.jpg?t=1770020068636" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005442/42000005442.jpg" width="120" alt="Istriku, Aku Memang Dewa"/>
         <br/><sub><b>Istriku, Aku Memang Dewa</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005225">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005225/42000005225.jpg?t=1769675714796" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005225/42000005225.jpg" width="120" alt="Si Cantik Melamarku"/>
         <br/><sub><b>Si Cantik Melamarku</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005243">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005243/42000005243.jpg?t=1769682776585" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005243/42000005243.jpg" width="120" alt="Kau Suruh Bunuh Dewa?!"/>
         <br/><sub><b>Kau Suruh Bunuh Dewa?!</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000004864">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004864/42000004864.jpg?t=1769414312425" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004864/42000004864.jpg" width="120" alt="Suami yang Diremehkan"/>
         <br/><sub><b>Suami yang Diremehkan</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000004867">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004867/42000004867.jpg?t=1769414550877" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004867/42000004867.jpg" width="120" alt="Dinikahi Dewa Perang"/>
         <br/><sub><b>Dinikahi Dewa Perang</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000004855">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004855/42000004855.jpg?t=1769412242778" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004855/42000004855.jpg" width="120" alt="Pengawalku, Penyelamatku"/>
         <br/><sub><b>Pengawalku, Penyelamatku</b></sub>
       </a>
     </td>
@@ -98,7 +102,8 @@
 
 <br/>
 
----
+<!-- Wave Separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,24&height=2"/>
 
 <br/>
 
@@ -110,37 +115,37 @@
   <tr>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000003970">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003970/42000003970.jpg?t=1768293743402" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003970/42000003970.jpg" width="120" alt="Ultimatum Raja Mafia"/>
         <br/><sub><b>Ultimatum Raja Mafia</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000004668">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004668/42000004668.jpg?t=1769062170001" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004668/42000004668.jpg" width="120" alt="Hati Sang Pahlawan"/>
         <br/><sub><b>Hati Sang Pahlawan</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000004216">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004216/42000004216.jpg?t=1768531629689" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004216/42000004216.jpg" width="120" alt="Sang Tuan Muda Penyamar"/>
         <br/><sub><b>Sang Tuan Muda Penyamar</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/41000122939">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122939/41000122939.jpg?t=1765787838538" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122939/41000122939.jpg" width="120" alt="Istriku Tiga, Takdirku Gila"/>
         <br/><sub><b>Istriku Tiga, Takdirku Gila</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000000651">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg" width="120" alt="Suami untuk Tiga Tahun"/>
         <br/><sub><b>Suami untuk Tiga Tahun</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000004032">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004032/42000004032.jpg?t=1768377971486" width="120" style="border-radius: 8px;"/>
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004032/42000004032.jpg" width="120" alt="Akhir Pencarian Sang Pewaris"/>
         <br/><sub><b>Akhir Pencarian Sang Pewaris</b></sub>
       </a>
     </td>
@@ -157,7 +162,8 @@
 
 <br/>
 
----
+<!-- Wave Separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,24&height=2"/>
 
 <br/>
 
@@ -181,7 +187,8 @@
 
 <br/>
 
----
+<!-- Wave Separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,24&height=2"/>
 
 <br/>
 
@@ -202,7 +209,8 @@
 
 <br/>
 
----
+<!-- Wave Separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,24&height=2"/>
 
 <br/>
 
@@ -222,9 +230,8 @@
 
 <br/>
 
----
-
-<br/>
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=120&section=footer"/>
 
 <div align="center">
 
@@ -236,8 +243,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+<!-- Profile Views Counter -->
 <br/>
-
-<sub>📅 Auto-updated: Jumat, 6 Februari 2026 pukul 09.58 WIB</sub>
+<img src="https://komarev.com/ghpvc/?username=dramachia-updates&label=Repository%20Views&color=9f1239&style=flat-square" alt="Profile Views"/>
 
 </div>
