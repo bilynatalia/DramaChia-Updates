@@ -149,6 +149,12 @@ async function generateReadme() {
 
 <br/>
 
+<p align="center">
+  <b>DramaChia</b> adalah platform streaming drama China pendek (Chinese Short Drama) dan Drama Korea terlengkap dengan subtitle Indonesia berkualitas tinggi. Nikmati ratusan judul drama romantis, fantasi, hingga CEO dingin yang siap menemani waktu santai Anda secara gratis tanpa biaya berlangganan. Kami menghadirkan update episode terbaru setiap hari dengan tampilan mobile-friendly yang hemat kuota, memastikan hiburan tanpa batas kapan saja dan di mana saja.
+</p>
+
+<br/>
+
 <!-- Action Buttons -->
 <a href="${WEBSITE_URL}">
   <img src="https://img.shields.io/badge/🌐_Kunjungi_Website-9f1239?style=for-the-badge&logoColor=white" alt="Website"/>
