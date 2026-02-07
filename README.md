@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Sabtu, 7 Februari 2026 pukul 13.27 WIB              ║
+  ║              Last Update: Sabtu, 7 Februari 2026 pukul 19.21 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -53,6 +53,11 @@
 <table>
   <tr>
     <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000005231">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005231/42000005231.jpg?t=1769677236767" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Jadi Tuan Muda dalam S...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000006068">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006068/42000006068.jpg?t=1770362778307" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Cinta Terkhianati, Tak...</b></sub>
@@ -76,11 +81,6 @@
       <a href="https://dramachia.com/detail/42000005442">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005442/42000005442.jpg?t=1770020068636" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Istriku, Aku Memang De...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005243">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005243/42000005243.jpg?t=1769682776585" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Aku Manusia, Kau Suruh...</b></sub>
       </a>
     </td>
   </tr>
@@ -117,14 +117,9 @@
         <br/><sub><b>Hati Sang Pahlawan (Su...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000000651">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000004216">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004216/42000004216.jpg?t=1768531629689" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Sang Tuan Muda Penyama...</b></sub>
+      <a href="https://dramachia.com/detail/41000122939">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122939/41000122939.jpg?t=1765787838538" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/41000117164">
@@ -132,9 +127,14 @@
         <br/><sub><b>Dendam Hati yang Tersa...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000004347">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004347/42000004347.jpg?t=1768802596958" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
+      <a href="https://dramachia.com/detail/42000004320">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004320/42000004320.jpg?t=1768791136795" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Pernikahan Kedua Si OB</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000004216">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004216/42000004216.jpg?t=1768531629689" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Sang Tuan Muda Penyama...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Sabtu, 7 Februari 2026 pukul 13.27 WIB</sub>
+<sub>📅 Auto-updated: Sabtu, 7 Februari 2026 pukul 19.21 WIB</sub>
 
 </div>
