@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Minggu, 8 Februari 2026 pukul 08.21 WIB              ║
+  ║              Last Update: Minggu, 8 Februari 2026 pukul 13.36 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -53,19 +53,24 @@
 <table>
   <tr>
     <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000006069">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006069/42000006069.jpg?t=1770363516231" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Kepergian yang Disesal...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005231">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005231/42000005231.jpg?t=1769677236767" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Jadi Tuan Muda dalam S...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006056">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006056/42000006056.jpg?t=1770357233628" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Janji yang Tersisa (Su...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000006068">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006068/42000006068.jpg?t=1770362778307" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Cinta Terkhianati, Tak...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000006056">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006056/42000006056.jpg?t=1770357233628" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Janji yang Tersisa (Su...</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000006057">
@@ -76,11 +81,6 @@
       <a href="https://dramachia.com/detail/42000005442">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005442/42000005442.jpg?t=1770020068636" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Istriku, Aku Memang De...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005225">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005225/42000005225.jpg?t=1769675714796" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Si Cantik Melamarku</b></sub>
       </a>
     </td>
   </tr>
@@ -122,14 +122,14 @@
         <br/><sub><b>Merebut Kembali Harga ...</b></sub>
       </a>
     </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/41000122939">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122939/41000122939.jpg?t=1765787838538" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000004216">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004216/42000004216.jpg?t=1768531629689" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Sang Tuan Muda Penyama...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000004671">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004671/42000004671.jpg?t=1769062695623" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Pengganti Tiga Tahun (...</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000004668">
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Minggu, 8 Februari 2026 pukul 08.21 WIB</sub>
+<sub>📅 Auto-updated: Minggu, 8 Februari 2026 pukul 13.36 WIB</sub>
 
 </div>
