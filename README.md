@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Selasa, 10 Februari 2026 pukul 19.43 WIB              ║
+  ║              Last Update: Rabu, 11 Februari 2026 pukul 01.50 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -68,19 +68,19 @@
         <br/><sub><b>Perang Titan：Kebangkit...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005965">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005965/42000005965.jpg?t=1770605099775" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Putri Merak dan Para M...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005284">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005284/42000005284.jpg?t=1769751707053" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Cinta yang Hilang</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005966">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005966/42000005966.jpg?t=1770370752719" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Sinkronisasi Gadis Mec...</b></sub>
+      <a href="https://dramachia.com/detail/42000005965">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005965/42000005965.jpg?t=1770605099775" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Putri Merak dan Para M...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000005956">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005956/42000005956.jpg?t=1770606817480" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Aku Menumbuhkan Malaik...</b></sub>
       </a>
     </td>
   </tr>
@@ -117,6 +117,11 @@
         <br/><sub><b>Ultimatum Sang Raja Mafia</b></sub>
       </a>
     </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000000651">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000004216">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004216/42000004216.jpg?t=1768531629689" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Sang Tuan Muda Penyama...</b></sub>
@@ -130,11 +135,6 @@
       <a href="https://dramachia.com/detail/42000004671">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004671/42000004671.jpg?t=1769062695623" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Pengganti Tiga Tahun (...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000004668">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004668/42000004668.jpg?t=1769062170001" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Hati Sang Pahlawan (Su...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Selasa, 10 Februari 2026 pukul 19.43 WIB</sub>
+<sub>📅 Auto-updated: Rabu, 11 Februari 2026 pukul 01.50 WIB</sub>
 
 </div>
