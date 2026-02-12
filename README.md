@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Kamis, 12 Februari 2026 pukul 13.48 WIB              ║
+  ║              Last Update: Kamis, 12 Februari 2026 pukul 19.36 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -63,11 +63,6 @@
         <br/><sub><b>Saat Bertemu Lagi</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005965">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005965/42000005965.jpg?t=1770605099775" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Putri Merak dan Para M...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005284">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005284/42000005284.jpg?t=1769751707053" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Cinta yang Hilang</b></sub>
@@ -76,6 +71,11 @@
       <a href="https://dramachia.com/detail/42000005957">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005957/42000005957.jpg?t=1770605888824" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Perang Titan：Kebangkit...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000005965">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005965/42000005965.jpg?t=1770605099775" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Putri Merak dan Para M...</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005966">
@@ -122,19 +122,19 @@
         <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000116653">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000116653/41000116653.jpg?t=1765787487854" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Sst, Jangan Bilang Sia...</b></sub>
+      <a href="https://dramachia.com/detail/42000004216">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004216/42000004216.jpg?t=1768531629689" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Sang Tuan Muda Penyama...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000119880">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000119880/41000119880.jpg?t=1765787577897" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Kupasrahkan Diriku Pad...</b></sub>
+      <a href="https://dramachia.com/detail/42000005442">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005442/42000005442.jpg?t=1770020068636" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Istriku, Aku Memang De...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000002890">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000002890/42000002890.jpg?t=1766975931542" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Kembalinya Sang Petinj...</b></sub>
+      <a href="https://dramachia.com/detail/42000004320">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004320/42000004320.jpg?t=1768791136795" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Pernikahan Kedua Si OB</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Kamis, 12 Februari 2026 pukul 13.48 WIB</sub>
+<sub>📅 Auto-updated: Kamis, 12 Februari 2026 pukul 19.36 WIB</sub>
 
 </div>
