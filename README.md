@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Senin, 16 Februari 2026 pukul 13.50 WIB              ║
+  ║              Last Update: Senin, 16 Februari 2026 pukul 19.34 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -112,9 +112,9 @@
         <br/><sub><b>Merebut Kembali Harga ...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000004668">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004668/42000004668.jpg?t=1769062170001" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Hati Sang Pahlawan (Su...</b></sub>
+      <a href="https://dramachia.com/detail/42000003970">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003970/42000003970.jpg?t=1768293743402" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Ultimatum Sang Raja Mafia</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/41000122939">
@@ -122,19 +122,19 @@
         <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000003970">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003970/42000003970.jpg?t=1768293743402" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Ultimatum Sang Raja Mafia</b></sub>
+      <a href="https://dramachia.com/detail/42000004320">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004320/42000004320.jpg?t=1768791136795" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Pernikahan Kedua Si OB</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000002890">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000002890/42000002890.jpg?t=1766975931542" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Kembalinya Sang Petinj...</b></sub>
+      <a href="https://dramachia.com/detail/42000005001">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005001/42000005001.jpg?t=1769509078748" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Jodoh Kita Telah Berakhir</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000112448">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000112448/41000112448.jpg?t=1765787447496" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Kaisar Pulang ke Desa ...</b></sub>
+      <a href="https://dramachia.com/detail/42000004668">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004668/42000004668.jpg?t=1769062170001" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Hati Sang Pahlawan (Su...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Senin, 16 Februari 2026 pukul 13.50 WIB</sub>
+<sub>📅 Auto-updated: Senin, 16 Februari 2026 pukul 19.34 WIB</sub>
 
 </div>
