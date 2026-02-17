@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Selasa, 17 Februari 2026 pukul 19.34 WIB              ║
+  ║              Last Update: Rabu, 18 Februari 2026 pukul 01.40 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -122,19 +122,19 @@
         <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006269">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006269/42000006269.jpg?t=1770788604781" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Aku Bos Sebenarnya</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000002890">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000002890/42000002890.jpg?t=1766975931542" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Kembalinya Sang Petinj...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000113749">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000113749/41000113749.jpg?t=1742457399178" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Rahasia di Balik Orang...</b></sub>
+      <a href="https://dramachia.com/detail/42000006269">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006269/42000006269.jpg?t=1770788604781" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Aku Bos Sebenarnya</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/41000112448">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000112448/41000112448.jpg?t=1765787447496" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Kaisar Pulang ke Desa ...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Selasa, 17 Februari 2026 pukul 19.34 WIB</sub>
+<sub>📅 Auto-updated: Rabu, 18 Februari 2026 pukul 01.40 WIB</sub>
 
 </div>
