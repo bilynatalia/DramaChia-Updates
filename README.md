@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Selasa, 17 Februari 2026 pukul 13.43 WIB              ║
+  ║              Last Update: Selasa, 17 Februari 2026 pukul 19.34 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -132,9 +132,9 @@
         <br/><sub><b>Kembalinya Sang Petinj...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000004668">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004668/42000004668.jpg?t=1769062170001" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Hati Sang Pahlawan (Su...</b></sub>
+      <a href="https://dramachia.com/detail/41000113749">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000113749/41000113749.jpg?t=1742457399178" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Rahasia di Balik Orang...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Selasa, 17 Februari 2026 pukul 13.43 WIB</sub>
+<sub>📅 Auto-updated: Selasa, 17 Februari 2026 pukul 19.34 WIB</sub>
 
 </div>
