@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Kamis, 19 Februari 2026 pukul 01.36 WIB              ║
+  ║              Last Update: Kamis, 19 Februari 2026 pukul 08.06 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -73,14 +73,14 @@
         <br/><sub><b>Digantikan, Lalu Menik...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005956">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005956/42000005956.jpg?t=1770606817480" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Aku Menumbuhkan Malaik...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005239">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005239/42000005239.jpg?t=1769679678055" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Murka Putri Dunia Bawah</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000005956">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005956/42000005956.jpg?t=1770606817480" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Aku Menumbuhkan Malaik...</b></sub>
       </a>
     </td>
   </tr>
@@ -107,34 +107,34 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000003845">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003845/42000003845.jpg?t=1768203226939" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>사랑은 시간 뒤에 서다</b></sub>
+      <a href="https://dramachia.com/detail/42000005001">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005001/42000005001.jpg?t=1769509078748" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Jodoh Kita Telah Berakhir</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005227">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005227/42000005227.jpg?t=1770713282422" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>조심해! 내가 레이디 보스야</b></sub>
+      <a href="https://dramachia.com/detail/42000003970">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003970/42000003970.jpg?t=1768293743402" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Ultimatum Sang Raja Mafia</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000003793">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003793/42000003793.jpg?t=1768786756238" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>청소부의 두번째 결혼</b></sub>
+      <a href="https://dramachia.com/detail/42000005442">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005442/42000005442.jpg?t=1770020068636" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Istriku, Aku Memang De...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000119998">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000119998/41000119998.jpg?t=1766975285818" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>폭풍같은 결혼생활</b></sub>
+      <a href="https://dramachia.com/detail/41000122939">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122939/41000122939.jpg?t=1765787838538" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000123092">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000123092/41000123092.jpg?t=1767519005089" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>어쩌다 아내가 셋(더빙) </b></sub>
+      <a href="https://dramachia.com/detail/41000112448">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000112448/41000112448.jpg?t=1765787447496" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Kaisar Pulang ke Desa ...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000003696">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003696/42000003696.jpg?t=1769156187023" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>다시 빛나는 인생</b></sub>
+      <a href="https://dramachia.com/detail/42000004216">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004216/42000004216.jpg?t=1768531629689" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Sang Tuan Muda Penyama...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Kamis, 19 Februari 2026 pukul 01.36 WIB</sub>
+<sub>📅 Auto-updated: Kamis, 19 Februari 2026 pukul 08.06 WIB</sub>
 
 </div>
