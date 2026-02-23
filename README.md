@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Senin, 23 Februari 2026 pukul 13.51 WIB              ║
+  ║              Last Update: Senin, 23 Februari 2026 pukul 19.35 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -53,9 +53,19 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005543">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005543/42000005543.jpg?t=1770086281409" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Reinkarnasi Istri Ters...</b></sub>
+      <a href="https://dramachia.com/detail/42000005244">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005244/42000005244.jpg?t=1769682939303" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Usai Cerai, Dia Menjad...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000005547">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005547/42000005547.jpg?t=1770086609048" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Wanita Pujaan Tanpa In...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000005535">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005535/42000005535.jpg?t=1770084456447" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Pion Cinta</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005532">
@@ -63,24 +73,14 @@
         <br/><sub><b>Ke Dunia Fana, Istriku...</b></sub>
       </a>
     </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000005543">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005543/42000005543.jpg?t=1770086281409" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Reinkarnasi Istri Ters...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000006242">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006242/42000006242.jpg?t=1770774902826" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Demi Balas Budi (Sulih...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006149">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006149/42000006149.jpg?t=1770632369835" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Cinta Dalam Sepotong T...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006238">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006238/42000006238.jpg?t=1770772840468" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Gila, Hebat Banget si ...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006070">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006070/42000006070.jpg?t=1770363631178" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Setelah Cerai, Tiga Ka...</b></sub>
       </a>
     </td>
   </tr>
@@ -117,6 +117,11 @@
         <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
       </a>
     </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000004668">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004668/42000004668.jpg?t=1769062170001" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Hati Sang Pahlawan (Su...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000004216">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004216/42000004216.jpg?t=1768531629689" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Sang Tuan Muda Penyama...</b></sub>
@@ -127,14 +132,9 @@
         <br/><sub><b>Asalku dari Zaman Kuno...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000004668">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004668/42000004668.jpg?t=1769062170001" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Hati Sang Pahlawan (Su...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006056">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006056/42000006056.jpg?t=1770357233628" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Janji yang Tersisa (Su...</b></sub>
+      <a href="https://dramachia.com/detail/42000000999">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000999/42000000999.jpg?t=1764839213039" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Jangan Tangisi Kepergi...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Senin, 23 Februari 2026 pukul 13.51 WIB</sub>
+<sub>📅 Auto-updated: Senin, 23 Februari 2026 pukul 19.35 WIB</sub>
 
 </div>
