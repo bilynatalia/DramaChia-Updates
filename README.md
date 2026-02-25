@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Rabu, 25 Februari 2026 pukul 19.35 WIB              ║
+  ║              Last Update: Kamis, 26 Februari 2026 pukul 01.48 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -73,14 +73,14 @@
         <br/><sub><b>Pion Cinta</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005543">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005543/42000005543.jpg?t=1770086281409" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Reinkarnasi Istri Ters...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005532">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005532/42000005532.jpg?t=1770083687019" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Ke Dunia Fana, Istriku...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000005543">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005543/42000005543.jpg?t=1770086281409" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Reinkarnasi Istri Ters...</b></sub>
       </a>
     </td>
   </tr>
@@ -107,13 +107,23 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000003970">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003970/42000003970.jpg?t=1768293743402" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Ultimatum Sang Raja Mafia</b></sub>
+      <a href="https://dramachia.com/detail/42000006069">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006069/42000006069.jpg?t=1770363516231" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Kepergian yang Disesal...</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/41000122939">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122939/41000122939.jpg?t=1765787838538" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000000651">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000004347">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004347/42000004347.jpg?t=1768802596958" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
       </a>
     </td>    <td align="center" width="150">
@@ -122,19 +132,9 @@
         <br/><sub><b>Asalku dari Zaman Kuno...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006069">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006069/42000006069.jpg?t=1770363516231" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Kepergian yang Disesal...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000004908">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004908/42000004908.jpg?t=1769478626410" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Merebut Kembali Harga ...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000000651">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
+      <a href="https://dramachia.com/detail/41000116653">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000116653/41000116653.jpg?t=1765787487854" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Sst, Jangan Bilang Sia...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Rabu, 25 Februari 2026 pukul 19.35 WIB</sub>
+<sub>📅 Auto-updated: Kamis, 26 Februari 2026 pukul 01.48 WIB</sub>
 
 </div>
