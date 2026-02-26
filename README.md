@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Kamis, 26 Februari 2026 pukul 08.02 WIB              ║
+  ║              Last Update: Kamis, 26 Februari 2026 pukul 13.44 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -53,6 +53,11 @@
 <table>
   <tr>
     <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000006393">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006393/42000006393.jpg?t=1772076190102" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Panggil Aku Kakak Ipar</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005971">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005971/42000005971.jpg?t=1770271717336" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Sang Pewaris Tersembun...</b></sub>
@@ -76,11 +81,6 @@
       <a href="https://dramachia.com/detail/42000005532">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005532/42000005532.jpg?t=1770083687019" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Ke Dunia Fana, Istriku...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005543">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005543/42000005543.jpg?t=1770086281409" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Reinkarnasi Istri Ters...</b></sub>
       </a>
     </td>
   </tr>
@@ -107,34 +107,34 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000003845">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003845/42000003845.jpg?t=1768203226939" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>사랑은 시간 뒤에 서다</b></sub>
+      <a href="https://dramachia.com/detail/42000006056">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006056/42000006056.jpg?t=1770357233628" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Janji yang Tersisa (Su...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005800">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005800/42000005800.jpg?t=1770791133930" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>사랑받는 엄마는 참지않아</b></sub>
+      <a href="https://dramachia.com/detail/42000000651">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005227">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005227/42000005227.jpg?t=1770713282422" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>조심해! 내가 레이디 보스야</b></sub>
+      <a href="https://dramachia.com/detail/41000122939">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122939/41000122939.jpg?t=1765787838538" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000003793">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003793/42000003793.jpg?t=1768786756238" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>청소부의 두번째 결혼</b></sub>
+      <a href="https://dramachia.com/detail/42000004671">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004671/42000004671.jpg?t=1769062695623" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Pengganti Tiga Tahun (...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000119998">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000119998/41000119998.jpg?t=1766975285818" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>폭풍같은 결혼생활</b></sub>
+      <a href="https://dramachia.com/detail/42000006069">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006069/42000006069.jpg?t=1770363516231" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Kepergian yang Disesal...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000003696">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003696/42000003696.jpg?t=1769156187023" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>다시 빛나는 인생</b></sub>
+      <a href="https://dramachia.com/detail/42000004908">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004908/42000004908.jpg?t=1769478626410" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Merebut Kembali Harga ...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Kamis, 26 Februari 2026 pukul 08.02 WIB</sub>
+<sub>📅 Auto-updated: Kamis, 26 Februari 2026 pukul 13.44 WIB</sub>
 
 </div>
