@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Sabtu, 28 Februari 2026 pukul 19.21 WIB              ║
+  ║              Last Update: Minggu, 1 Maret 2026 pukul 01.16 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -107,19 +107,19 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000122939">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122939/41000122939.jpg?t=1765787838538" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000000651">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005971">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005971/42000005971.jpg?t=1770271717336" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Sang Pewaris Tersembun...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000006069">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006069/42000006069.jpg?t=1770363516231" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Kepergian yang Disesal...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000002804">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000002804/42000002804.jpg?t=1766717390976" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Awas！Sang Naga Kembali...</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000004320">
@@ -127,14 +127,14 @@
         <br/><sub><b>Pernikahan Kedua Si OB</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000003762">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003762/42000003762.jpg?t=1767861018762" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Guru Surgawi Penakluk ...</b></sub>
+      <a href="https://dramachia.com/detail/42000000651">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005001">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005001/42000005001.jpg?t=1769509078748" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Jodoh Kita Telah Berakhir</b></sub>
+      <a href="https://dramachia.com/detail/41000122939">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122939/41000122939.jpg?t=1765787838538" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Sabtu, 28 Februari 2026 pukul 19.21 WIB</sub>
+<sub>📅 Auto-updated: Minggu, 1 Maret 2026 pukul 01.16 WIB</sub>
 
 </div>
