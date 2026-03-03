@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Selasa, 3 Maret 2026 pukul 13.35 WIB              ║
+  ║              Last Update: Selasa, 3 Maret 2026 pukul 19.30 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -53,19 +53,14 @@
 <table>
   <tr>
     <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000005973">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005973/42000005973.jpg?t=1770272059155" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Berhenti Jadi Bucin, H...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005549">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005549/42000005549.jpg?t=1770086733628" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Bangkitnya Naga Tersem...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006691">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006691/42000006691.jpg?t=1772417503420" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Bisikan Bayi Pengubah ...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006688">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006688/42000006688.jpg?t=1772418092733" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Sistem Sultan Putri</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005536">
@@ -73,14 +68,19 @@
         <br/><sub><b>Dua Wajah Pewaris Asli</b></sub>
       </a>
     </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000006688">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006688/42000006688.jpg?t=1772418092733" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Sistem Sultan Putri</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000006397">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006397/42000006397.jpg?t=1772076527976" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Putri Asli dan Palsu</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005533">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005533/42000005533.jpg?t=1770083713747" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Aku Mendengar Semua Ra...</b></sub>
+      <a href="https://dramachia.com/detail/42000006691">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006691/42000006691.jpg?t=1772417503420" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Bisikan Bayi Pengubah ...</b></sub>
       </a>
     </td>
   </tr>
@@ -107,11 +107,6 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006069">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006069/42000006069.jpg?t=1770363516231" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Kepergian yang Disesal...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000000651">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
@@ -122,19 +117,24 @@
         <br/><sub><b>Sang Tuan Muda Penyama...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000117164">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000117164/41000117164.jpg?t=1765787521811" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Dendam Hati yang Tersa...</b></sub>
+      <a href="https://dramachia.com/detail/42000001693">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000001693/42000001693.jpg?t=1765871867294" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Pewaris yang Hilang: M...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000004347">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004347/42000004347.jpg?t=1768802596958" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
+      <a href="https://dramachia.com/detail/42000000999">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000999/42000000999.jpg?t=1764839213039" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Jangan Tangisi Kepergi...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005252">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005252/42000005252.jpg?t=1769739472134" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Suruh Kau Kerja, Malah...</b></sub>
+      <a href="https://dramachia.com/detail/42000002804">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000002804/42000002804.jpg?t=1766717390976" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Awas！Sang Naga Kembali...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000004908">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004908/42000004908.jpg?t=1769478626410" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Merebut Kembali Harga ...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Selasa, 3 Maret 2026 pukul 13.35 WIB</sub>
+<sub>📅 Auto-updated: Selasa, 3 Maret 2026 pukul 19.30 WIB</sub>
 
 </div>
