@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Minggu, 8 Maret 2026 pukul 13.28 WIB              ║
+  ║              Last Update: Minggu, 8 Maret 2026 pukul 19.22 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -53,6 +53,11 @@
 <table>
   <tr>
     <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000006950">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006950/42000006950.jpg?t=1772530507568" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Mahkota Tersembunyi (S...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000007221">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007221/42000007221.jpg?t=1772788423405" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Kau Bukan Pilihan Terb...</b></sub>
@@ -76,11 +81,6 @@
       <a href="https://dramachia.com/detail/42000007196">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007196/42000007196.jpg?t=1772776342039" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Rahasia Musim Semi Eku...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006949">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006949/42000006949.jpg?t=1772530327137" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Kebangkitan dari Api D...</b></sub>
       </a>
     </td>
   </tr>
@@ -122,19 +122,19 @@
         <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006238">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006238/42000006238.jpg?t=1770772840468" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Gila, Hebat Banget si ...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000006269">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006269/42000006269.jpg?t=1770788604781" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Aku Bos Sebenarnya</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000116653">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000116653/41000116653.jpg?t=1765787487854" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Sst, Jangan Bilang Sia...</b></sub>
+      <a href="https://dramachia.com/detail/42000006238">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006238/42000006238.jpg?t=1770772840468" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Gila, Hebat Banget si ...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/41000112448">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000112448/41000112448.jpg?t=1765787447496" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Kaisar Pulang ke Desa ...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Minggu, 8 Maret 2026 pukul 13.28 WIB</sub>
+<sub>📅 Auto-updated: Minggu, 8 Maret 2026 pukul 19.22 WIB</sub>
 
 </div>
