@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Rabu, 11 Maret 2026 pukul 13.36 WIB              ║
+  ║              Last Update: Rabu, 11 Maret 2026 pukul 19.32 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -53,9 +53,9 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005975">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005975/42000005975.jpg?t=1770272381616" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Insiyur Modern di Desa...</b></sub>
+      <a href="https://dramachia.com/detail/42000007324">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007324/42000007324.jpg?t=1773108625739" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Mengintip Isi Pikiran</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005977">
@@ -63,14 +63,14 @@
         <br/><sub><b>Pewaris Asli dari Sara...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007401">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007401/42000007401.jpg?t=1773127280216" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Sang Legenda: Dewi Pen...</b></sub>
+      <a href="https://dramachia.com/detail/42000005975">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005975/42000005975.jpg?t=1770272381616" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Insiyur Modern di Desa...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007424">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007424/42000007424.jpg?t=1773131352314" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Terpikat Olehmu</b></sub>
+      <a href="https://dramachia.com/detail/42000007322">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007322/42000007322.jpg?t=1773052132577" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Sampai Jumpa Selamanya</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000007391">
@@ -78,9 +78,9 @@
         <br/><sub><b>Hidup Santai yang Diim...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007322">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007322/42000007322.jpg?t=1773052132577" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Sampai Jumpa Selamanya</b></sub>
+      <a href="https://dramachia.com/detail/42000007424">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007424/42000007424.jpg?t=1773131352314" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Terpikat Olehmu</b></sub>
       </a>
     </td>
   </tr>
@@ -117,24 +117,24 @@
         <br/><sub><b>Sang Pewaris Tersembun...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000000651">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000006238">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006238/42000006238.jpg?t=1770772840468" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Gila, Hebat Banget si ...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000121386">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000121386/41000121386.jpg?t=1765787666841" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Terjebak dalam Kontrak...</b></sub>
+      <a href="https://dramachia.com/detail/42000000036">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000036/42000000036.jpg?t=1762236831538" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Istriku Punya Kekuatan...</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/41000116653">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000116653/41000116653.jpg?t=1765787487854" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Sst, Jangan Bilang Sia...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000003970">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003970/42000003970.jpg?t=1768293743402" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Ultimatum Sang Raja Mafia</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Rabu, 11 Maret 2026 pukul 13.36 WIB</sub>
+<sub>📅 Auto-updated: Rabu, 11 Maret 2026 pukul 19.32 WIB</sub>
 
 </div>
