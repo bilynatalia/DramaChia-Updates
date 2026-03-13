@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Jumat, 13 Maret 2026 pukul 08.02 WIB              ║
+  ║              Last Update: Jumat, 13 Maret 2026 pukul 13.36 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -53,6 +53,11 @@
 <table>
   <tr>
     <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000007667">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007667/42000007667.jpg?t=1773367882286" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Di Galaksi Jadi Cewek ...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000007443">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007443/42000007443.jpg?t=1773138344604" width="120" style="border-radius: 8px;"/>
         <br/><sub><b> Perang Titan：Kebangki...</b></sub>
@@ -73,14 +78,9 @@
         <br/><sub><b>Pewaris Asli dari Sara...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007424">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007424/42000007424.jpg?t=1773131352314" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Terpikat Olehmu</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007391">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007391/42000007391.jpg?t=1773124442513" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Hidup Santai yang Diim...</b></sub>
+      <a href="https://dramachia.com/detail/42000007401">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007401/42000007401.jpg?t=1773127280216" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Sang Legenda: Dewi Pen...</b></sub>
       </a>
     </td>
   </tr>
@@ -112,9 +112,9 @@
         <br/><sub><b>Berhenti Jadi Bucin, H...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006269">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006269/42000006269.jpg?t=1770788604781" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Aku Bos Sebenarnya</b></sub>
+      <a href="https://dramachia.com/detail/41000112448">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000112448/41000112448.jpg?t=1765787447496" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Kaisar Pulang ke Desa ...</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/41000115600">
@@ -127,14 +127,14 @@
         <br/><sub><b>Gila, Hebat Banget si ...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007194">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007194/42000007194.jpg?t=1772775832722" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Ultimatum Sang Raja Ma...</b></sub>
+      <a href="https://dramachia.com/detail/41000119880">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000119880/41000119880.jpg?t=1765787577897" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Kupasrahkan Diriku Pad...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006950">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006950/42000006950.jpg?t=1772530507568" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Mahkota Tersembunyi (S...</b></sub>
+      <a href="https://dramachia.com/detail/41000109026">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000109026/41000109026.jpg?t=1733986815945" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Aku Punya Bejana Sakti</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Jumat, 13 Maret 2026 pukul 08.02 WIB</sub>
+<sub>📅 Auto-updated: Jumat, 13 Maret 2026 pukul 13.36 WIB</sub>
 
 </div>
