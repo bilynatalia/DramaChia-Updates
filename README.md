@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Minggu, 15 Maret 2026 pukul 13.41 WIB              ║
+  ║              Last Update: Minggu, 15 Maret 2026 pukul 19.26 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -53,6 +53,11 @@
 <table>
   <tr>
     <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000007062">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007062/42000007062.jpg?t=1772676613330" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Janji Kuno  (Sulih Suara)</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000006951">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006951/42000006951.jpg?t=1772530605526" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Tujuh Janji yang Patah...</b></sub>
@@ -76,11 +81,6 @@
       <a href="https://dramachia.com/detail/42000007443">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007443/42000007443.jpg?t=1773138344604" width="120" style="border-radius: 8px;"/>
         <br/><sub><b> Perang Titan：Kebangki...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007324">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007324/42000007324.jpg?t=1773108625739" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Mengintip Isi Pikiran</b></sub>
       </a>
     </td>
   </tr>
@@ -112,6 +112,11 @@
         <br/><sub><b>Kebangkitan dari Api D...</b></sub>
       </a>
     </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000006269">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006269/42000006269.jpg?t=1770788604781" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Aku Bos Sebenarnya</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000005973">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005973/42000005973.jpg?t=1770272059155" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Berhenti Jadi Bucin, H...</b></sub>
@@ -122,19 +127,14 @@
         <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006269">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006269/42000006269.jpg?t=1770788604781" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Aku Bos Sebenarnya</b></sub>
+      <a href="https://dramachia.com/detail/42000006238">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006238/42000006238.jpg?t=1770772840468" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Gila, Hebat Banget si ...</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000007194">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007194/42000007194.jpg?t=1772775832722" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Ultimatum Sang Raja Ma...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006238">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006238/42000006238.jpg?t=1770772840468" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Gila, Hebat Banget si ...</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Minggu, 15 Maret 2026 pukul 13.41 WIB</sub>
+<sub>📅 Auto-updated: Minggu, 15 Maret 2026 pukul 19.26 WIB</sub>
 
 </div>
