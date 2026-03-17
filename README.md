@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Selasa, 17 Maret 2026 pukul 01.44 WIB              ║
+  ║              Last Update: Selasa, 17 Maret 2026 pukul 08.04 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -53,34 +53,34 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007310">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007310/42000007310.jpg?t=1773048004673" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Kegagalan yang Menguba...</b></sub>
+      <a href="https://dramachia.com/detail/42000004825">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004825/42000004825.jpg?t=1769396850180" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>출소 후, 모두가 무릎 꿇었다</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007518">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007518/42000007518.jpg?t=1773216198465" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Kotak Misteri Cinta</b></sub>
+      <a href="https://dramachia.com/detail/42000006078">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006078/42000006078.jpg?t=1770366527037" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>절친과 재벌가 악녀로 환생했다</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007308">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007308/42000007308.jpg?t=1773047579880" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Yang Kutinggalkan, Ter...</b></sub>
+      <a href="https://dramachia.com/detail/42000007669">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007669/42000007669.jpg?t=1773369128632" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b> 주먹으로 간다(더빙)</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006951">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006951/42000006951.jpg?t=1772530605526" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Tujuh Janji yang Patah...</b></sub>
+      <a href="https://dramachia.com/detail/42000005312">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005312/42000005312.jpg?t=1769756544900" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>주먹으로 간다</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007062">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007062/42000007062.jpg?t=1772676613330" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Janji Kuno  (Sulih Suara)</b></sub>
+      <a href="https://dramachia.com/detail/42000007019">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007019/42000007019.jpg?t=1772604082288" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>각성! 여사친 복수꾼으로</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007323">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007323/42000007323.jpg?t=1773052764925" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Penjinak Mayat Hidup T...</b></sub>
+      <a href="https://dramachia.com/detail/42000007018">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007018/42000007018.jpg?t=1772603952651" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>짝사랑 오빠와 연애 수업 중</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Selasa, 17 Maret 2026 pukul 01.44 WIB</sub>
+<sub>📅 Auto-updated: Selasa, 17 Maret 2026 pukul 08.04 WIB</sub>
 
 </div>
