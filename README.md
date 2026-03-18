@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Rabu, 18 Maret 2026 pukul 13.48 WIB              ║
+  ║              Last Update: Rabu, 18 Maret 2026 pukul 19.41 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -35,7 +35,7 @@
 
 ![Drama Terbaru](https://img.shields.io/badge/Drama_Terbaru-10+-9f1239?style=flat-square&logo=youtube&logoColor=white)
 ![Drama Populer](https://img.shields.io/badge/Drama_Populer-10+-ef4444?style=flat-square&logo=fire&logoColor=white)
-![Kategori](https://img.shields.io/badge/Kategori-30-dc2626?style=flat-square&logo=tag&logoColor=white)
+![Kategori](https://img.shields.io/badge/Kategori-31-dc2626?style=flat-square&logo=tag&logoColor=white)
 ![Update](https://img.shields.io/badge/Auto_Update-Setiap_6_Jam-1a1a1a?style=flat-square&logo=github-actions&logoColor=white)
 
 </div>
@@ -53,9 +53,14 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007907">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007907/42000007907.jpg?t=1773738354775" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Miliarder di Balik Layar</b></sub>
+      <a href="https://dramachia.com/detail/42000007957">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007957/42000007957.jpg?t=1773815814174" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Rahasia Sang Pewaris T...</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000007959">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007959/42000007959.jpg?t=1773816540227" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Ular Juga Bisa Jadi Naga</b></sub>
       </a>
     </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000007905">
@@ -63,24 +68,19 @@
         <br/><sub><b>Pendekar Pedang Terbang</b></sub>
       </a>
     </td>    <td align="center" width="150">
+      <a href="https://dramachia.com/detail/42000007907">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007907/42000007907.jpg?t=1773738354775" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Miliarder di Balik Layar</b></sub>
+      </a>
+    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000007889">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007889/42000007889.jpg?t=1773735266357" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Menikahi Taipan Lumpuh</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007308">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007308/42000007308.jpg?t=1773047579880" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Yang Kutinggalkan, Ter...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
       <a href="https://dramachia.com/detail/42000007310">
         <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007310/42000007310.jpg?t=1773048004673" width="120" style="border-radius: 8px;"/>
         <br/><sub><b>Kegagalan yang Menguba...</b></sub>
-      </a>
-    </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007518">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007518/42000007518.jpg?t=1773216198465" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Kotak Misteri Cinta</b></sub>
       </a>
     </td>
   </tr>
@@ -107,34 +107,34 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000003793">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003793/42000003793.jpg?t=1768786756238" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>청소부의 두번째 결혼</b></sub>
+      <a href="https://dramachia.com/detail/42000005973">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005973/42000005973.jpg?t=1770272059155" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Berhenti Jadi Bucin, H...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000003845">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003845/42000003845.jpg?t=1768203226939" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>사랑은 시간 뒤에 서다</b></sub>
+      <a href="https://dramachia.com/detail/42000000651">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006146">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006146/42000006146.jpg?t=1773124906555" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>수수께끼 재벌딸</b></sub>
+      <a href="https://dramachia.com/detail/41000122939">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122939/41000122939.jpg?t=1765787838538" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Istriku Tiga, Takdirku...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000119998">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000119998/41000119998.jpg?t=1766975285818" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>폭풍같은 결혼생활</b></sub>
+      <a href="https://dramachia.com/detail/42000006949">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006949/42000006949.jpg?t=1772530327137" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Kebangkitan dari Api D...</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000004967">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004967/42000004967.jpg?t=1769493319999" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>어쩌다 아내가 셋2(더빙)</b></sub>
+      <a href="https://dramachia.com/detail/42000006269">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006269/42000006269.jpg?t=1770788604781" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Aku Bos Sebenarnya</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005227">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005227/42000005227.jpg?t=1770713282422" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>조심해! 내가 레이디 보스야</b></sub>
+      <a href="https://dramachia.com/detail/41000121386">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000121386/41000121386.jpg?t=1765787666841" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>Terjebak dalam Kontrak...</b></sub>
       </a>
     </td>
   </tr>
@@ -162,13 +162,13 @@
 [![Realitas](https://img.shields.io/badge/Realitas-ef4444?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Realitas)
 [![Nikah Dulu Cinta Belakangan ](https://img.shields.io/badge/Nikah_Dulu_Cinta_Belakangan_-dc2626?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Nikah-Dulu-Cinta-Belakangan)
 [![Kawin Kontrak](https://img.shields.io/badge/Kawin_Kontrak-be123c?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Kawin-Kontrak)
-[![Salah Paham](https://img.shields.io/badge/Salah_Paham-e11d48?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Salah-Paham)
+[![Naga](https://img.shields.io/badge/Naga-e11d48?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Naga)
 
-[![Orang Kuat](https://img.shields.io/badge/Orang_Kuat-9f1239?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Orang-Kuat)
-[![Kelahiran Kembali](https://img.shields.io/badge/Kelahiran_Kembali-ef4444?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Kelahiran-Kembali)
-[![Manis](https://img.shields.io/badge/Manis-dc2626?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Manis)
-[![Melawan Balik](https://img.shields.io/badge/Melawan_Balik-be123c?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Melawan-Balik)
-[![Cinta Sejati](https://img.shields.io/badge/Cinta_Sejati-e11d48?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Cinta-Sejati)
+[![Salah Paham](https://img.shields.io/badge/Salah_Paham-9f1239?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Salah-Paham)
+[![Orang Kuat](https://img.shields.io/badge/Orang_Kuat-ef4444?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Orang-Kuat)
+[![Kelahiran Kembali](https://img.shields.io/badge/Kelahiran_Kembali-dc2626?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Kelahiran-Kembali)
+[![Manis](https://img.shields.io/badge/Manis-be123c?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Manis)
+[![Melawan Balik](https://img.shields.io/badge/Melawan_Balik-e11d48?style=for-the-badge&logoColor=white)](https://dramachia.com/kategori/Melawan-Balik)
 
 </div>
 
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Rabu, 18 Maret 2026 pukul 13.48 WIB</sub>
+<sub>📅 Auto-updated: Rabu, 18 Maret 2026 pukul 19.41 WIB</sub>
 
 </div>
