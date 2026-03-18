@@ -2,7 +2,7 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║           🎬 DRAMACHIA - AUTO-GENERATED README 🎬              ║
   ║     This file is automatically updated by GitHub Actions      ║
-  ║              Last Update: Rabu, 18 Maret 2026 pukul 08.08 WIB              ║
+  ║              Last Update: Rabu, 18 Maret 2026 pukul 13.48 WIB              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -107,34 +107,34 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000000651">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000651/42000000651.jpg?t=1764042578579" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Suami untuk Tiga Tahun...</b></sub>
+      <a href="https://dramachia.com/detail/42000003793">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003793/42000003793.jpg?t=1768786756238" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>청소부의 두번째 결혼</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006949">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006949/42000006949.jpg?t=1772530327137" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Kebangkitan dari Api D...</b></sub>
+      <a href="https://dramachia.com/detail/42000003845">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000003845/42000003845.jpg?t=1768203226939" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>사랑은 시간 뒤에 서다</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000005973">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005973/42000005973.jpg?t=1770272059155" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Berhenti Jadi Bucin, H...</b></sub>
+      <a href="https://dramachia.com/detail/42000006146">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006146/42000006146.jpg?t=1773124906555" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>수수께끼 재벌딸</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000007194">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007194/42000007194.jpg?t=1772775832722" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Ultimatum Sang Raja Ma...</b></sub>
+      <a href="https://dramachia.com/detail/41000119998">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000119998/41000119998.jpg?t=1766975285818" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>폭풍같은 결혼생활</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/41000121386">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000121386/41000121386.jpg?t=1765787666841" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Terjebak dalam Kontrak...</b></sub>
+      <a href="https://dramachia.com/detail/42000004967">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000004967/42000004967.jpg?t=1769493319999" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>어쩌다 아내가 셋2(더빙)</b></sub>
       </a>
     </td>    <td align="center" width="150">
-      <a href="https://dramachia.com/detail/42000006269">
-        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000006269/42000006269.jpg?t=1770788604781" width="120" style="border-radius: 8px;"/>
-        <br/><sub><b>Aku Bos Sebenarnya</b></sub>
+      <a href="https://dramachia.com/detail/42000005227">
+        <img src="https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005227/42000005227.jpg?t=1770713282422" width="120" style="border-radius: 8px;"/>
+        <br/><sub><b>조심해! 내가 레이디 보스야</b></sub>
       </a>
     </td>
   </tr>
@@ -229,6 +229,6 @@
 
 <br/>
 
-<sub>📅 Auto-updated: Rabu, 18 Maret 2026 pukul 08.08 WIB</sub>
+<sub>📅 Auto-updated: Rabu, 18 Maret 2026 pukul 13.48 WIB</sub>
 
 </div>
